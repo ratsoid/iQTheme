@@ -1,0 +1,6 @@
+
+.icon-column:before { content: '\e800'; } /* '' */
+.icon-section:before { content: '\e801'; } /* '' */
+.icon-page:before { content: '\e802'; } /* '' */
+.icon-color:before { content: '\e803'; } /* '' */
+.icon-settings:before { content: '\e806'; } /* '' */

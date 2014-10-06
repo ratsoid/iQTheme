@@ -1,0 +1,1 @@
+<?php header( 'Location: http://erevan.ro/404' ) ; ?>
